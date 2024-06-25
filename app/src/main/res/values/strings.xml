@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeminiSmaple</string>
+    <string name="action_go">Go</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="baking_title">Gemini Image recognition</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide info of the image</string>
+    <string name="image1_description">Blueberry cookies</string>
+    <string name="image2_description">Homemade bread</string>
+    <string name="image3_description">Red-velvet cupcake</string>
+    <string name="car_description">car</string>
+    <string name="results_placeholder">(Results will appear here...)</string>
+</resources>

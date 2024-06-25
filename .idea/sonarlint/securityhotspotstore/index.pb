@@ -1,0 +1,21 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+j
+:app/src/main/java/com/example/geminismaple/BakingScreen.kt,d\e\de4d7d961b829e4b1944c886737907ec45816695
+l
+<app/src/main/java/com/example/geminismaple/ui/theme/Theme.kt,3\d\3db7bf9a4fadefd5904e49f696fe1a1604605a12
+m
+=app/src/main/java/com/example/geminismaple/BakingViewModel.kt,2\e\2eb8b088ea3ee288a33d10a1e1d9dcc609770bf2
+j
+:app/src/main/java/com/example/geminismaple/MainActivity.kt,a\a\aaa253cd59161f739a590ebd6c294de4f6dff070
+j
+:app/src/main/java/com/example/geminismaple/CaptureImage.kt,f\7\f70763bf1d88b8afbc94e50b72a87693c8abf542
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+e
+5app/src/main/java/com/example/geminismaple/UiState.kt,8\c\8cd76ed7918e2c3e3772335845415bb8699f1e0f
+s
+Capp/src/main/java/com/example/geminismaple/CaptureImageViewModel.kt,0\d\0d94c8e4ef5c50b4acb28ffc20aba4bae19ed7b7
